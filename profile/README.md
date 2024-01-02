@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/argos-ci/argos">
-   <img src="https://raw.githubusercontent.com/argos-ci/.github/main/profile/assets/banner.jpg" alt="Argos Banner">
+   <img src="https://raw.githubusercontent.com/argos-ci/.github/main/assets/banner.jpg" alt="Argos Banner">
   </a>
 
   <h3 align="center">Argos</h3>
